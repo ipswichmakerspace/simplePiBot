@@ -52,7 +52,7 @@ The following keys will be used:
 | X | go backwards |
 | A | spin left |
 | D | spin right |
-| <Space> | = Stop |
+| Space | Stop |
 | O | exit program |
 
 
