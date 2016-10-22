@@ -1,6 +1,8 @@
-==== Simple Pi Robot ====
+# Simple Pi Robot
 
 This code is for a simple pi robot built using continuous rotation servos conneceted directly to the pi without the use of motoro controllers.
+
+## Setup
 
 First you will need to install servoblaster:
 
@@ -20,15 +22,23 @@ cd simplePiBot
 
 Run the setup.sh script to setup the servoblaster pins:
 
-```./setup.sh```
+```
+./setup.sh
+```
 
 Install readchar:
 
-```pip install readchar```
+```
+pip install readchar
+```
+
+## Running
 
 The run the program:
 
-```python robot.py```
+```
+python robot.py
+```
 
 The following keys will be used:
 
