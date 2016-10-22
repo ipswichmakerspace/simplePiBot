@@ -32,6 +32,10 @@ Install readchar:
 pip install readchar
 ```
 
+Wire up your servos as in this diagram:
+
+![alt text](https://github.com/ipswichmakerspace/simplePiBot/blob/master/connections.png "Connections")
+
 ## Running
 
 The run the program:
