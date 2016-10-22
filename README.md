@@ -46,12 +46,14 @@ python robot.py
 
 The following keys will be used:
 
-W = go forwards
-X = go backwards
-A = spin left
-D = spin right
-<Space> = Stop
-O = exit program
+| key | action |
+| --- | ------ |
+| W | go forwards |
+| X | go backwards |
+| A | spin left |
+| D | spin right |
+| <Space> | = Stop |
+| O | exit program |
 
 
 
